@@ -1,0 +1,45 @@
+header{
+
+    text-align: center;
+    padding: 18px;
+    background: cornsilk;
+    border: 3px dashed firebrick;
+    border-radius: 87px;
+    letter-spacing: 3px;
+    color:red;
+}
+ main{
+
+background-color: red;
+    height: 500px;
+    margin: 17px;
+    border: 2px dashed black;
+    border-radius: 29px
+
+ }
+  div h2{
+ text-align: center;
+ letter-spacing: 4px;
+ border: 3px dashed blue;
+ border-radius: 37px;
+ padding: 9px;
+ font-size: 20px;
+ color: green;
+
+  }
+  
+  .button{
+       text-align: center;
+       margin-top:35px;
+  }
+
+  button{
+    padding: 10px;
+    font-size: 30px;
+    border: 2px dashed black;
+    border-radius: 25px;
+    background: azure;
+    letter-spacing: 3px;
+    color: cadetblue;
+    
+}
